@@ -1,15 +1,15 @@
 # Hi there, I'm [Your Name] 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/iplayer1337fivem)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/iplayer1337fivem)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/iplayer1337fivem)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and building cool projects. Here's a bit about me:
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **[Technology/Framework]**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://yourportfolio.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://advancedroleplayer.icu)**
 - 💬 Ask me about **Web Development, JavaScript, Python, Machine Learning**
 - 📫 How to reach me **[your.email@example.com](mailto:your.email@example.com)**
 
@@ -51,9 +51,9 @@ Description of your project. What technologies you used, what challenges you fac
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/iplayer1337fivem)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/iplayer1337fivem)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/iplayer1337fivem)
 
 
 
