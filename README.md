@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - 🌱 I’m currently learning **[3D modelling  / Jquery / QBX]**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://arottenberger.pro)**
 - 💬 Ask me about **Web Development, JavaScript, Python, Machine Learning**
-- 📫 How to reach me **[your.email@example.com](mailto:noreply@arottenberger.pro)**
+- 📫 How to reach me **[noreply@arottenberger.pro](mailto:noreply@arottenberger.pro)**
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,12 +63,13 @@ Description of your project. What technologies you used, what challenges you fac
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on ... unveiling the mysteries of code and figuring out how to get my coffee machine to run Python scripts.
+🌱 I’m currently learning ... how to train a neural network to understand my sense of humor. It’s proving to be a challenge.
+👯 I’m looking to collaborate on ... world domination through open-source projects—or maybe just some cool AI stuff.
+🤔 I’m looking for help with ... debugging the universe. If you find the source code, let me know.
+💬 Ask me about ... anything tech, or why I believe tabs are better than spaces (I’m ready for the debate).
+📫 How to reach me: ... If you can decipher my code, you’ll find my contact info. Or just send me a message on GitHub—it’s quicker.
+😄 Pronouns: ... He/Him, but you can also call me 'Code Master' (just kidding, stick with He/Him).
+⚡ Fun fact: ... I can write code that breaks itself, and I’ve convinced myself that’s a feature, not a bug.
+🛠 Tech Stack: My tech stack is like my Spotify playlist—eclectic, always growing, and occasionally surprising. Expect to see Python, JavaScript, and some random tech I decided to explore at 2 AM.
 -->
