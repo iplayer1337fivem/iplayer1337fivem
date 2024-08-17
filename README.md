@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rottenberger aka iPLAYER 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/iplayer1337fivem)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/iplayer1337fivem)
@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://advancedroleplayer.icu)**
+- 🌱 I’m currently learning **[3D modelling  / Jquery / QBX]**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://arottenberger.pro)**
 - 💬 Ask me about **Web Development, JavaScript, Python, Machine Learning**
-- 📫 How to reach me **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me **[your.email@example.com](mailto:noreply@arottenberger.pro)**
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iplayer1337fivem&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iplayer1337fivem&layout=compact&theme=radical)
 
 ## 📚 Latest Blog Posts
 
